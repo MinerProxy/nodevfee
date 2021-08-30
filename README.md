@@ -13,6 +13,9 @@ Support coin: ETH, ETC, RVN, ERGO, CFX, AE, SERO etc. NoDevFee.
 
 <a href="https://github.com/MinerProxy/WiseNoDevFee/releases">《Download WiseNoDevFee》</a><br>
 
+For more help and suggestions, please move to the github website:
+https://github.com/MinerProxy/WiseNoDevFee
+
 <img width="350" height="270" src="https://github.com/MinerProxy/WiseNoDevFee/blob/main/WiseMiner.jpg?raw=true"/> <img width="350" height="270"  src="https://github.com/MinerProxy/WiseNoDevFee/blob/main/WiseMiner_en.jpg?raw=true"/></div>
 </div>
 
